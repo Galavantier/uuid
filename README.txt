@@ -1,4 +1,11 @@
 
+FORK
+----
+
+This is the Galavantier fork of Drupal's UUID module. It adds a feature base
+field for custom entities to share a uuid table in the database, and includes
+a load entity by uuid function.
+
 INTRODUCTION
 ------------
 
